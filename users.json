@@ -1,0 +1,20 @@
+{
+    "prgmaz": {
+        "avatar": "https://programmer101n.com/assets/img/New%20Suit.png",
+        "name": "Naman Baranwal",
+        "links": {
+            "Facebook": "https://facebook.com/programmer101n",
+            "Instagram": "https://instagram.com/prgmaz",
+            "Twitter": "https://twitter.com/prgmaz",
+            "Twitch": "https://twitch.tv/prgmaz"
+        }
+    },
+    "raunaq_soneja": {
+        "avatar": "https://pbs.twimg.com/profile_images/1250353022862942212/VmHMAL1t_400x400.jpg",
+        "name": "Raunaq Soneja",
+        "links": {
+            "Instagram": "https://instagram.com/raunaq_soneja",
+            "Twitter": "https://twitter.com/raunaq_soneja"
+        }
+    }
+}
